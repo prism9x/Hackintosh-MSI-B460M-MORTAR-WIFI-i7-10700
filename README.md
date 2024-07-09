@@ -1,4 +1,7 @@
 # Opencore EFI - Hackintosh B460M Motar Wifi + i7 10700
+![Home](https://raw.githubusercontent.com/prism9x/Hackintosh-MSI-B460M-MORTAR-WIFI-i7-10700/dev/imgs/Home.png)
+![Peripherals](https://raw.githubusercontent.com/prism9x/Hackintosh-MSI-B460M-MORTAR-WIFI-i7-10700/dev/imgs/Peripherals.png)
+![Kext](https://raw.githubusercontent.com/prism9x/Hackintosh-MSI-B460M-MORTAR-WIFI-i7-10700/dev/imgs/Kext-list.png)
 ## Hỗ trợ
 | OpenCore | MacOS       | Status
 | :---     | :---        | :---
