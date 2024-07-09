@@ -1,5 +1,8 @@
 # Opencore EFI - Hackintosh B460M Motar Wifi + i7 10700
-
+## Hỗ trợ
+| OpenCore | MacOS       | Status
+| :---     | :---        | :---
+| 1.0.0    | Sonoma 14.5 | ✅
 ## Hardware
 | Item          | Name
 | ---:          | :---
